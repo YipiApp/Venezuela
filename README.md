@@ -23,7 +23,7 @@ El formato del JSON contiene la siguiente estructura:
 	'[REGION]': {
 		'[ESTADO]': {
 			'[MUNICIPIO]': {
-				'[PARROQUIA]' -> {
+				'[PARROQUIA]': {
 					'zonas': {
 						'[ZONA]': [CODIGO_POSTAL], ...
 					},
