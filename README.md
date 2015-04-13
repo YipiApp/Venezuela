@@ -22,10 +22,10 @@ El formato del JSON contiene la siguiente estructura:
 {
 	'[REGION]': {
 		'[ESTADO]': {
-			'[MUNICIPIOS]': {
-				'[PARROQUIAS]' -> {
+			'[MUNICIPIO]': {
+				'[PARROQUIA]' -> {
 					'zonas': {
-						'[ZONA]': [CODIGO_POSTAL]
+						'[ZONA]': [CODIGO_POSTAL], ...
 					},
 					'ciudad': [CIUDAD]
 				}, ...
