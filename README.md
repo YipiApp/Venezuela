@@ -18,6 +18,7 @@ Todo el contenido publicado se puede editar, distribuir y utilizar solo bajo los
 ## Sobre zonas_postales.json
 
 El formato del JSON contiene la siguiente estructura:
+```
 {
 	'[REGION]': {
 		'[ESTADO]': {
@@ -32,3 +33,4 @@ El formato del JSON contiene la siguiente estructura:
 		}, ...
 	}, ...
 }
+```
