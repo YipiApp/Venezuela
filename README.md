@@ -8,6 +8,13 @@ Utilerias para Venezuela
 - zonas_postales.csv - Parser del PDF de Ipostel en formato CSV
 - zonas_postales.sql - Parser del PDF de Ipostel en formato SQL
 
+La data contiene:
+- 35086 Zonas
+- 1132 Parroquias
+- 1132 Ciudades
+- 335 Municipios
+- 24 Estados
+
 ## Sobre los Autores
 
 Creado por Kijam López B. Desarrollador de https://cuado.co/
