@@ -11,7 +11,7 @@ Utilerias para Venezuela
 La data contiene:
 - 35086 Zonas
 - 1132 Parroquias
-- 1132 Ciudades
+- 997 Ciudades
 - 335 Municipios
 - 24 Estados
 
