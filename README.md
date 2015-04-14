@@ -3,9 +3,9 @@ Utilerias para Venezuela
 
 ## Sobre el contenido del Repositorio
 
-- zonas_postales.pdf - Fuente de donde se obtubieron los Codigos Postales de Venezuela (IPOSTEL)
-
+- zonas_postales.pdf - Fuente de donde se obtuvieron los Codigos Postales de Venezuela (IPOSTEL)
 - zonas_postales.json - Parser del PDF de Ipostel en formato JSON
+- zonas_postales.csv - Parser del PDF de Ipostel en formato CSV
 
 ## Sobre los Autores
 
