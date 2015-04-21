@@ -17,7 +17,7 @@ La data contiene:
 
 ## Sobre los Autores
 
-Creado por Kijam López B. Desarrollador de https://cuado.co/
+Creado por Kijam López B. Desarrollador de https://cuado.co/ y http://kijam.com/
 
 ## Sobre el Uso y Licencia
 
